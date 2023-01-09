@@ -11,3 +11,4 @@ vite.config.ts.timestamp-*
 .git
 docker-compose.yml
 .gitlab-ci.yml
+Screenshot.png
