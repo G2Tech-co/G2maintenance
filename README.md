@@ -1,7 +1,7 @@
 # G2maintenance
 
 Deploy maintenance page as fast as possible!, Powerd by [`Svelte`](https://kit.svelte.dev/).
-Image [`DockerHub`](https://hub.docker.com/repository/docker/arsalanses/g2maintenance-page).
+Image [`DockerHub`](https://hub.docker.com/r/arsalanses/g2maintenance-page).
 
 ## Screenshot
 ![screenshot](/Screenshot.png?raw=true)
